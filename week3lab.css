@@ -1,0 +1,32 @@
+p {
+    color: hotpink;
+}
+.main {
+    color: hotpink;
+}
+table, th, td {
+    border-width: thin;
+    border-color: black;
+    border-style: solid;
+    border-collapse: collapse;
+}
+th {
+    background-color: black;
+    color: pink;
+}
+.tableRed {
+    background-color: palevioletred;
+    color: bisque;
+}
+a:link {
+    color: darkblue
+}
+a:visited {
+    color: purple
+}
+a:hover {
+    color: green
+}
+a:active {
+    color:coral
+}
